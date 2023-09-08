@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">RealEstate</string>
+    <string name="app_name" translatable="false">RealEstate</string>
+    <string name="about_apartment">About Apartment</string>
 </resources>
